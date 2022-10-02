@@ -10,7 +10,7 @@
   "repository": "ecomplus-stores/lafeli",
   "logo": "/img/uploads/img-20220817-wa0002.jpg",
   "name": "LAFELI CADEIRAS ",
-  "short_name": "lafeli",
+  "short_name": "Lafeli",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -21,6 +21,6 @@
   "secondary_color": "#393e46",
   "icon": "/img/icon.png",
   "store_id": 45765,
-  "description": "lafeli",
+  "description": "Lafeli",
   "large_icon": "/img/large-icon.png"
 }

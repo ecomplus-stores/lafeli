@@ -1,6 +1,5 @@
 {
   "domain": "lafeli.com.br",
-  "repository": "ecomplus-stores/lafeli",
   "currency_symbol": "R$",
   "primary_color": "#222831",
   "theme": {
@@ -8,7 +7,8 @@
     "custom": "_"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/logo.png",
+  "repository": "ecomplus-stores/lafeli",
+  "logo": "/img/uploads/img-20220817-wa0002.jpg",
   "name": "LAFELI CADEIRAS ",
   "short_name": "lafeli",
   "lang": "pt_br",

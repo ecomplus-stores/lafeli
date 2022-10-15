@@ -29,14 +29,15 @@
       "enabled": true
     },
     {
-      "type": "collection-shelf",
+      "page": 1,
+      "title": "Vendas online somente no Estado do Ceará ",
       "shuffle": true,
-      "collection_id": null,
-      "sort": "offers",
-      "title": "",
       "headless": false,
+      "type": "collection-shelf",
+      "link": "https://Lafeli.com.br",
       "limit": 12,
-      "page": 1
+      "collection_id": null,
+      "sort": "offers"
     },
     {
       "type": "page-title",

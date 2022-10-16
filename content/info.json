@@ -1,9 +1,9 @@
 {
   "shipping": {
-    "show": true,
+    "show": false,
     "text": "Entregamos em todas as cidades do Ceará ",
     "title": "Lafeli Cadeiras ",
-    "link": "https:Lafeli.com.br"
+    "link": "https:lafeli.com.br"
   },
   "installments": {
     "show": true,

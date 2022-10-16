@@ -3,7 +3,7 @@
     "show": false,
     "text": "Entregamos em todas as cidades do Ceará ",
     "title": "Lafeli Cadeiras ",
-    "link": "https:lafeli.com.br"
+    "link": ""
   },
   "installments": {
     "show": true,
@@ -11,10 +11,10 @@
   },
   "exchange": {
     "show": false,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": ""
   },
   "promo": {
     "show": false,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": ""
   }
 }

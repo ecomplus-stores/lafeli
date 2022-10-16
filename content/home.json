@@ -32,7 +32,7 @@
       "page": 1,
       "title": "Vendas online somente no Estado do Ceará ",
       "shuffle": false,
-      "headless": false,
+      "headless": true,
       "type": "collection-shelf",
       "link": "",
       "limit": 12,

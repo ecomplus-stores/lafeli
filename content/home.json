@@ -26,13 +26,13 @@
     },
     {
       "type": "info-bar",
-      "enabled": true
+      "enabled": false
     },
     {
       "page": 1,
       "title": "Vendas online somente no Estado do Ceará ",
       "shuffle": false,
-      "headless": true,
+      "headless": false,
       "type": "collection-shelf",
       "link": "",
       "limit": 12,

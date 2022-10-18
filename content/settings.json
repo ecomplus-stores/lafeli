@@ -9,7 +9,7 @@
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/lafeli",
   "logo": "/img/uploads/img-20220817-wa0002.jpg",
-  "name": "LAFELI CADEIRAS ",
+  "name": "LAFELIr CADEIRAS ",
   "short_name": "Lafeli",
   "lang": "pt_br",
   "currency": "BRL",
@@ -19,8 +19,8 @@
   "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#393e46",
-  "icon": "img-20220817-wa0002.jpg",
+  "icon": "/img/uploads/img-20220817-wa0002.jpg",
   "store_id": 45765,
   "description": "Lafeli Cadeiras ",
-  "large_icon": "img-20220817-wa0002.jpg"
+  "large_icon": "/img/uploads/img-20220817-wa0002.jpg"
 }

@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.03a60b01d0e0988e64c6b7725057b2bb.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.aae7980f2fc0f04d8003a6639ea3a3f1.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.df40353aecf42d1c87f370a223dc3b72.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.87c11cacddd80b75a3a7e00802cc6952.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.072df0174182086cbdc40cef30b1bd25.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "LAFELI CADEIRAS ",
+  "short_name": "Lafeli",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Lafeli Cadeiras ",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
